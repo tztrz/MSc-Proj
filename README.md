@@ -1,7 +1,7 @@
 # msc-data-science-project-2021_22-tztrz
 msc-data-science-project-2021_22-tztrz created by GitHub Classroom__ 
 
-Exploration of relationship between climate change and butterfly abundance across the United Kingdom between 1976 and 2020 using data science technqiues learnt during the undertaking of the MSc Data Science course. Data is provided by HADUK and UKCEH/UKBMS. Please see citations below.__ 
+Exploration of relationship between climate change and butterfly abundance across the United Kingdom between 1976 and 2020 using data science technqiues learnt during the undertaking of the MSc Data Science course. Data is provided by HADUK and UKCEH/UKBMS. Please see citations below.<br/>
 
 Botham, M., Middlebrook, I., Harrower, C., Roy, D.B., 2022. United Kingdom Butterfly Monitoring Scheme: phenology 2020. https://doi.org/10.5285/B13FFD72-62BF-47D1-948B-D9D84DD12AF7 <br/> 
 Botham, M.S., Middlebrook, I., Harris, S., Harrower, C., Lowe, M., Roy, D.B., 2022a. United Kingdom Butterfly Monitoring Scheme: species trends 2020. https://doi.org/10.5285/236EE6BD-2330-4F84-A871-5A8EBE1925B5<br/>
